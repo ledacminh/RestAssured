@@ -1,0 +1,13 @@
+****************************Methods**********************************
+- HelepMethods : Class này sẽ bao gồm các helpers có thể reusalbe  => Xây dựng các common functions để có thể sử dụng lại trong các class test
+- RestUtil : Class này sẽ bao gồm các methods liên quan đến thư viện của Rest Assured  => Xây dựng các common methods để tiện sử dụng sau này
+- Trong thư mục ApiTests sẽ có các class, đây là các class sẽ chứa các testcases và các asertion
+- Trong thư mục TestSuite sẽ có class AllApiTest, đây là class Test Runner của chúng ta, class này sẽ đảm nhận việc run tất các cả testcases
+=> class này được xem như là 1 suite, đảm nhận việc run tất cả ác test case được defined ở các class test.
+
+
+****************************Library**********************************
+- Junit Library : Cái này là test framework
+- Hamcrest Library : Thư viện này là các method assertion
+- Jayway Rest Assured : Thư viện Rest assured
+
