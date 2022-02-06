@@ -1,0 +1,16 @@
+[
+  {
+  "houseNo": 1232,
+  "streetName": "Brown",
+  "city": 111,
+  "state": "USA",
+  "country": "Viet Nam"
+},
+  {
+    "houseNo": 456,
+    "streetName": "Brown",
+    "city": 111,
+    "state": "USA",
+    "country": "Viet Nam"
+  }
+]
